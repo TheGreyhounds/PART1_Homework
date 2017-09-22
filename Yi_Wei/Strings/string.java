@@ -47,8 +47,17 @@ public class string
 
     /**************************************************************************
     *                                                                         *
-    * Reflection: So what you're saying is spaces in front of and behind      *
-    *             strings dont count toward the total length of the string?   *
+    * Reflection: What happened here is we played around with a bunch of      *
+    *             methods that manipulates strings. Like the concact() method *
+    *             which takes in a string for its parameter and returns the   *
+    *             string inside the parameter added to the string in front of *
+    *             it. There's also the valueOf method which takes in a value  *
+    *             and returns a string. There's methods that converts all the *
+    *             lowercase or uppercase characters in a string to either     *
+    *             uppercase or lowercase. Trim deletes spaces infront of and  *
+    *             behind the string, length gets the number of characters in  *
+    *             the string and returns a integer, and equals just compares  *
+    *             two strings. Boolean is just 1 or 0/ true or false.
     *                                                                         *
     *                                                                         *
     **************************************************************************/

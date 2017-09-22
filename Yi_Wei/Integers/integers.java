@@ -19,9 +19,10 @@ public class integers{
 
     /**************************************************************************
     *                                                                         *
-    * Reflection: Do people ever use the byte and short identifier? What is   *
-    *             their purpose?                                              *
-    *                                                                         *
+    * Reflection: What we did here is that we declared a bunch of variables   *
+    *             we set them to their maximum and minimum values based on    *
+    *             their keyword and after that we printed them out onto       *
+    *             the screen.                                                 *
     *                                                                         *
     **************************************************************************/
 

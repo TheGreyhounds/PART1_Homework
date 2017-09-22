@@ -9,9 +9,9 @@ public class variables{
 
     /**************************************************************************
     *                                                                         *
-    * Reflection: I didn't copy your code's theme of exclaming about data but *
-    *             this is probably enough to show that I got the general idea *
-    *             Hopefully.                                                  *
+    * Reflection: What happened here is that we declared a bunch of strings   *
+    *             and then sorta just printed them onto the screen with       *
+    *             the println method.                                         *
     *                                                                         *
     *                                                                         *
     **************************************************************************/
